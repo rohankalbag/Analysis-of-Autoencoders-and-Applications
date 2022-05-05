@@ -10,4 +10,4 @@ Contributors
 - seaborn, matplotlib, numpy, tensorflow, keras, cv2, sklearn
 
 ### Instructions to Run the Code:
-- Download all the .ipynb files in the $\verb|./Files|$ locally in your computer and use Visual Studio Code/Jupyter Notebook to run all the cells.
+- Download all the .ipynb files in the ./Files locally in your computer and use Visual Studio Code/Jupyter Notebook to run all the cells.
