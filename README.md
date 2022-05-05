@@ -1,6 +1,6 @@
-# DS303 - Machine Learning - Project
+# DS303 Project - Symptotic Analysis of Autoencoder Architectures for Image Colorization and Noise Reduction
 
-Collaborators
+Contributors
 - Rohan Kalbag
 - Shivam Patel
 - Nikhilesh Rajput
