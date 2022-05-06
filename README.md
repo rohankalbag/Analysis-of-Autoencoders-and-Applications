@@ -22,11 +22,11 @@ and PCA for noise reduction.*
 - Download all the ```.ipynb``` files in the ```./Files``` locally in your computer and use Visual Studio Code/Jupyter Notebook to run all the cells.
 
 ### Links
-[Project Report](https://github.com/rohankalbag/DS303_Project/blob/main/Report.pdf)
+- [Project Report](https://github.com/rohankalbag/DS303_Project/blob/main/Report.pdf)
 
-[Presentation](https://github.com/rohankalbag/DS303_Project/blob/main/Presentation.pdf)
+- [Presentation](https://github.com/rohankalbag/DS303_Project/blob/main/Presentation.pdf)
 
-[```.ipynb``` Files](https://github.com/rohankalbag/DS303_Project/tree/main/Files)
+- [```.ipynb``` Files](https://github.com/rohankalbag/DS303_Project/tree/main/Files)
 
 Contributors
 - Rohan Kalbag
