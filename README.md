@@ -26,7 +26,7 @@ and PCA for noise reduction.*
 
 - [Presentation](https://github.com/rohankalbag/DS303_Project/blob/main/Presentation.pdf)
 
-- [```.ipynb``` Files](https://github.com/rohankalbag/DS303_Project/tree/main/Files)
+- [Code](https://github.com/rohankalbag/DS303_Project/tree/main/Files)
 
 Contributors
 - Rohan Kalbag
